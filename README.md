@@ -2,9 +2,13 @@
 
 **Evidence-led application document processing and review workspace.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-open%20SmartApply-6d5dfc)](https://smartapply-1-cfix.onrender.com/)
 
-> **Live Demo:** [Open SmartApply](https://smartapply-1-cfix.onrender.com/)
+## 🌐 Live Demo
+
+**Custom Domain:** https://smartapplynow.xyz
+
+**Render URL (backup):** https://smartapply-1-cfix.onrender.com
+
 
 ## What it does
 
